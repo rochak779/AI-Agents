@@ -201,3 +201,7 @@ Ready to transform your workflow with custom AI agents? I specialize in creating
 Interested in collaborating or need a custom AI solution? Let's connect and discuss how we can streamline your operations with intelligent automation.
 
 [📧 Get in touch](mailto:rochak.ag779@gmail.com) | [💼 Connect on LinkedIn](https://linkedin.com/in/rochak-agarwal)
+
+---
+
+Built by [Rochak Agarwal](https://www.rochakagarwal.com). More of my work is at [rochakagarwal.com](https://www.rochakagarwal.com).
